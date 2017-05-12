@@ -1,0 +1,6 @@
+Projekt polega na stworzeniu programu do zarz¹dzania domowym bud¿etem.
+Dostêpne opcje:
+- tworzenie konta u¿ytkowanika, 
+- dodawanie wydatków 
+- grupowanie wydatków
+- tworzenie raportów
