@@ -3,4 +3,4 @@ Dostêpne opcje:
 - tworzenie konta u¿ytkowanika, 
 - dodawanie wydatków 
 - grupowanie wydatków
-- tworzenie raportów
+- tworzenie raportów 
